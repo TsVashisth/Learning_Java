@@ -4,7 +4,7 @@ import java.nio.file.attribute.UserPrincipal;
 import java.util.Random;
 import java.io.IOException;
 
-public class Sps_game{
+public class SpsGame{
      
    
     public static void main(String[] args){
